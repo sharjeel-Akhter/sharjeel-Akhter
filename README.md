@@ -1,12 +1,7 @@
 <div align="center">
 
 ```
-███████╗██╗  ██╗ █████╗ ██████╗      ██╗███████╗███████╗██╗
-██╔════╝██║  ██║██╔══██╗██╔══██╗     ██║██╔════╝██╔════╝██║
-███████╗███████║███████║██████╔╝     ██║█████╗  █████╗  ██║
-╚════██║██╔══██║██╔══██║██╔══██╗██   ██║██╔══╝  ██╔══╝  ██║
-███████║██║  ██║██║  ██║██║  ██║╚█████╔╝███████╗███████╗███████╗
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚══════╝╚══════╝╚══════╝
+
 ```
 
 ### `> initializing developer profile...` 🖥️
@@ -89,7 +84,8 @@ $ cat developer.json
 </div>
 
 ---
-
+![Visitor Count](https://komarev.com/ghpvc/?username=sharjeel-Akhter&color=58a6ff&style=flat-square&label=Profile+Views)
+---
 ## `./connect --social`
 
 <div align="center">
@@ -113,9 +109,6 @@ while (alive) {
     repeat();
 }
 ```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=sharjeel-Akhter&color=58a6ff&style=flat-square&label=Profile+Views)
-
 *— thanks for stopping by. star something if you liked it ⭐ —*
 
 </div>
