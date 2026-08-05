@@ -1,84 +1,89 @@
 <h1 align="center">Hi, I'm Muhammad Sharjeel Akhter</h1>
 
 <p align="center">
-  Full-Stack Developer in Progress • B.S. Information Technology Student
+Full-Stack Developer in Progress • B.S. Information Technology Student
 </p>
 
 <p align="center">
-Building responsive web applications while continuously learning modern web technologies.
+Building responsive web applications while learning modern technologies one project at a time.
 </p>
 
 ---
 
-## About Me
+##  About Me
 
-- 🎓 B.S. Information Technology
-- 🌍 Based in Pakistan
-- 💻 Currently learning Full-Stack Development
-- 📚 Exploring Backend Development, Databases, and REST APIs
-- 🚀 Always building projects to improve my skills
+-  B.S. Information Technology Student
+-  Learning Full-Stack Development
+-  Interested in React, Node.js, MongoDB & PostgreSQL
+-  Building projects to improve every day
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://skillicons.dev/icons?i=js,cpp,python)
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind)
 
-### Backend & Database
+### Backend
 
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
 
----
+### Database
 
-## GitHub Stats
+![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
 
-<p align="center">
+### Tools
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharjeel-Akhter&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeel-Akhter&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sharjeel-Akhter&theme=tokyonight&hide_border=true" />
-
-</p>
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
 
 ---
 
-## Connect with Me
+## 📈 GitHub Activity
 
-<p align="left">
+### Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharjeel-Akhter&theme=github-compact&hide_border=true)](https://github.com/sharjeel-Akhter)
+
+---
+
+### Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/sharjeel-Akhter/sharjeel-Akhter/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> **Note:** The snake requires a GitHub Action to generate automatically.
+
+---
+
+## 🏆 Highlights
+
+- 💻 Full-Stack Developer in Progress
+- 🚀 Building real-world projects with React & Node.js
+- 📚 Always learning new technologies
+- 🤝 Open to collaboration
+
+---
+
+## 🌐 Connect With Me
+
+<p>
 
 <a href="https://linkedin.com/in/Muhammad-Sharjeel-Akhter">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/sharjeel_akhter_01">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://facebook.com/sharjeelAkhter">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:itx.sharjeel969@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://instagram.com/sharjeel_akhter_01">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
@@ -86,5 +91,5 @@ Building responsive web applications while continuously learning modern web tech
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharjeel-Akhter&style=flat-square&color=0E75B6" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=sharjeel-Akhter&style=for-the-badge&color=0E75B6"/>
 </p>
