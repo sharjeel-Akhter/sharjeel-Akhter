@@ -1,53 +1,90 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sharjeel+%F0%9F%91%8B;Full-Stack+Dev+in+Progress...;Night+owl+%F0%9F%A6%89+%7C+Bug+hunter+%F0%9F%90%9B" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi, I'm Muhammad Sharjeel Akhter</h1>
+
+<p align="center">
+  Full-Stack Developer in Progress • B.S. Information Technology Student
+</p>
+
+<p align="center">
+Building responsive web applications while continuously learning modern web technologies.
+</p>
 
 ---
 
-🎓 B.S. Information Technology &nbsp;|&nbsp; 🌍 Pakistan &nbsp;|&nbsp; 🌙 Best after midnight
+## About Me
 
-I build for the web and learn something new every day. Currently deep in full-stack development — frontend to backend, databases to APIs.
+- 🎓 B.S. Information Technology
+- 🌍 Based in Pakistan
+- 💻 Currently learning Full-Stack Development
+- 📚 Exploring Backend Development, Databases, and REST APIs
+- 🚀 Always building projects to improve my skills
 
 ---
 
-### 🛠 Tech Stack
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+
+### Backend & Database
+
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-### 📈 GitHub Activity
+## GitHub Stats
 
-<div align="center">
+<p align="center">
 
-![Stats](https://github-readme-stats.shion.dev/api?username=sharjeel-Akhter&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharjeel-Akhter&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Streak](https://streak-stats.demolab.com/?user=sharjeel-Akhter&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeel-Akhter&layout=compact&theme=tokyonight&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=sharjeel-Akhter&theme=tokyonight&hide_border=true&layout=compact)
+</p>
 
-</div>
+<p align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=sharjeel-Akhter&theme=tokyonight&hide_border=true" />
 
-### 📬 Find Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad-Sharjeel-Akhter)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sharjeel_akhter_01)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/sharjeelAkhter)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:itx.sharjeel969@gmail.com)
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharjeel-Akhter&style=flat-square&color=58a6ff" />
-</div>
+## Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/Muhammad-Sharjeel-Akhter">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/sharjeel_akhter_01">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/sharjeelAkhter">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="mailto:itx.sharjeel969@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharjeel-Akhter&style=flat-square&color=0E75B6" alt="Profile Views"/>
+</p>
