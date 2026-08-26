@@ -57,7 +57,7 @@ View my projects and work on my [portfolio](https://sharjeelakhter.tech).
 
 ## GitHub
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=sharjeel-Akhter\&theme=github-compact\&hide_border=true)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharjeel-Akhter&theme=github-compact&hide_border=true)](https://github.com/sharjeel-Akhter)
 
 ## Connect
 
