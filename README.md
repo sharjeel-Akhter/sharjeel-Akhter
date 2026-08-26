@@ -1,95 +1,67 @@
-<h1 align="center">Hi, I'm Muhammad Sharjeel Akhter</h1>
+# Muhammad Sharjeel Akhter
 
-<p align="center">
-Full-Stack Developer in Progress • B.S. Information Technology Student
-</p>
+**Full-Stack Developer in Progress · B.S. Information Technology Student**
 
-<p align="center">
-Building responsive web applications while learning modern technologies one project at a time.
-</p>
+I’m an Information Technology student focused on building web applications and developing strong foundations in modern web development.
 
----
+Currently working with **React, Node.js, Express, and databases**, while continuing to strengthen my JavaScript and backend development skills.
 
-##  About Me
+**Portfolio:** [sharjeelakhter.tech](https://sharjeelakhter.tech)
 
--  B.S. Information Technology Student
--  Learning Full-Stack Development
--  Interested in React, Node.js, MongoDB & PostgreSQL
--  Building projects to improve every day
+## About
 
----
+* B.S. Information Technology student
+* Focused on full-stack web development
+* Building projects with React and Node.js
+* Learning backend architecture, APIs, databases, and system fundamentals
+* Interested in writing clean, maintainable code
 
-## 🛠 Tech Stack
+## Technologies
 
-### Languages
+**Languages**
 
-![JavaScript](https://skillicons.dev/icons?i=js,cpp,python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
 
-### Frontend
+**Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 
-### Backend
+**Backend**
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
-### Database
+**Databases**
 
-![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-### Tools
+**Tools**
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
 
----
+## Projects
 
-## 📈 GitHub Activity
+I use projects to apply what I learn and gain practical experience in frontend and backend development.
 
-### Contribution Graph
+View my projects and work on my [portfolio](https://sharjeelakhter.tech).
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharjeel-Akhter&theme=github-compact&hide_border=true)](https://github.com/sharjeel-Akhter)
+## GitHub
 
----
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=sharjeel-Akhter\&theme=github-compact\&hide_border=true)
 
-### Contribution Snake
+## Connect
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/sharjeel-Akhter/sharjeel-Akhter/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-> **Note:** The snake requires a GitHub Action to generate automatically.
-
----
-
-## 🏆 Highlights
-
-- 💻 Full-Stack Developer in Progress
-- 🚀 Building real-world projects with React & Node.js
-- 📚 Always learning new technologies
-- 🤝 Open to collaboration
-
----
-
-## 🌐 Connect With Me
-
-<p>
-
-<a href="https://linkedin.com/in/Muhammad-Sharjeel-Akhter">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:itx.sharjeel969@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://instagram.com/sharjeel_akhter_01">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sharjeel-Akhter&style=for-the-badge&color=0E75B6"/>
-</p>
+* **Portfolio:** [sharjeelakhter.tech](https://sharjeelakhter.tech)
+* **LinkedIn:** [Muhammad Sharjeel Akhter](https://linkedin.com/in/Muhammad-Sharjeel-Akhter)
+* **Email:** [itx.sharjeel969@gmail.com](mailto:itx.sharjeel969@gmail.com)
+* **Instagram:** [@sharjeel_akhter_01](https://instagram.com/sharjeel_akhter_01)
