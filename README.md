@@ -56,11 +56,10 @@ Building web applications, exploring new technologies, and learning through hand
 
 ### GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharjeel-Akhter&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeel-Akhter&layout=compact&hide_border=true&theme=transparent)
-
----
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=sharjeel-Akhter&show_icons=true&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sharjeel-Akhter&layout=compact&hide_border=true&theme=transparent" height="165" />
+</p>
 
 <p align="center">
   <i>Learning. Building. Improving.</i>
