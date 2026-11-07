@@ -1,67 +1,40 @@
-# Muhammad Sharjeel Akhter
+<h1 align="center">Muhammad Sharjeel Akhter</h1>
 
-**Full-Stack Developer in Progress · B.S. Information Technology Student**
+<p align="center">
+  <em>Full-stack developer in the making. I turn ideas into clean, working software.</em>
+</p>
 
-I’m an Information Technology student focused on building web applications and developing strong foundations in modern web development.
+<p align="center">
+  B.S. Information Technology · Lahore, Pakistan
+</p>
 
-Currently working with **React, Node.js, Express, and databases**, while continuing to strengthen my JavaScript and backend development skills.
+---
 
-**Portfolio:** [sharjeelakhter.tech](https://sharjeelakhter.tech)
+### What I'm building
 
-## About
+Web applications with **React, Node.js, Express, and databases**, with an eye on clean architecture, solid APIs, and code that's easy to maintain.
 
-* B.S. Information Technology student
-* Focused on full-stack web development
-* Building projects with React and Node.js
-* Learning backend architecture, APIs, databases, and system fundamentals
-* Interested in writing clean, maintainable code
+### Stack
 
-## Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=js,cpp,python,html,css,react,tailwind,nodejs,express,mongodb,mysql,postgres&perline=12" />
+</p>
 
-**Languages**
+### Tools
 
-![JavaScript](https://skillicons.dev/icons?i=js)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=12" />
+</p>
 
-**Frontend**
-
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-
-**Backend**
-
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-**Databases**
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
-**Tools**
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
-
-## Projects
-
-I use projects to apply what I learn and gain practical experience in frontend and backend development.
-
-View my projects and work on my [portfolio](https://sharjeelakhter.tech).
-
-## GitHub
+### Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharjeel-Akhter&theme=github-compact&hide_border=true)](https://github.com/sharjeel-Akhter)
 
-## Connect
+---
 
-* **Portfolio:** [sharjeelakhter.tech](https://sharjeelakhter.tech)
-* **LinkedIn:** [Muhammad Sharjeel Akhter](https://linkedin.com/in/Muhammad-Sharjeel-Akhter)
-* **Email:** [itx.sharjeel969@gmail.com](mailto:itx.sharjeel969@gmail.com)
-* **Instagram:** [@sharjeel_akhter_01](https://instagram.com/sharjeel_akhter_01)
+<p align="center">
+  <a href="https://sharjeelakhter.tech">Portfolio</a> ·
+  <a href="https://linkedin.com/in/Muhammad-Sharjeel-Akhter">LinkedIn</a> ·
+  <a href="mailto:itx.sharjeel969@gmail.com">Email</a> ·
+  <a href="https://instagram.com/sharjeel_akhter_01">Instagram</a>
+</p>
